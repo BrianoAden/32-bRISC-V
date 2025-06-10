@@ -1,0 +1,24 @@
+$date
+	Mon Jun  9 23:17:41 2025
+$end
+$version
+	QuestaSim Version 2023.2
+$end
+$timescale
+	1ns
+$end
+
+$scope module top_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var wire 1 # c $end
+
+$scope module t0 $end
+$var wire 1 $ in_a $end
+$var wire 1 % in_b $end
+$var wire 1 # out_c $end
+
+$scope module u0 $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var wire 1 # c $end

@@ -1,0 +1,99 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 d/storage-home/a/aeb16/32bRISC-V/NAND
+T_opt
+!s110 1749528939
+VAf3;>aiF@]94XlC99;P_`1
+04 6 4 work top_tb fast 0
+=1-d094661828ee-6847b16b-709dd-3fd32f
+R1
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work -debugdb +acc
+Z3 tCvgOpt 0
+n@_opt
+OL;O;2023.2;77
+vnotAND
+Z4 2nand_tb.v|nand.v|top.v
+Z5 !s110 1749528890
+!i10b 1
+!s100 a_S^H@]_]QYCk92UA9=Nl2
+I3h_9PcR>abm^Kc[_nfzT92
+R2
+w1749526761
+8nand.v
+Fnand.v
+!i122 11
+L0 5 6
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2023.2;77
+r1
+!s85 0
+31
+Z8 !s108 1749528890.000000
+Z9 !s107 top.v|nand.v|nand_tb.v|
+Z10 !s90 nand_tb.v|nand.v|top.v|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+nnot@a@n@d
+vtop
+R4
+R5
+!i10b 1
+!s100 60W5R^k[RShcmCXXOF7gG3
+I=hGZnTj2LjdBOXG74`A^]3
+R2
+w1749527522
+8top.v
+Ftop.v
+!i122 11
+L0 6 20
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R3
+vtop_tb
+R4
+R5
+!i10b 1
+!s100 OS=VBMEm`QSA`0IB4@2]I0
+Ij^G37lZ[Gd;oIBzHTHYJS2
+R2
+w1749528860
+8nand_tb.v
+Fnand_tb.v
+!i122 11
+L0 5 29
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R3
